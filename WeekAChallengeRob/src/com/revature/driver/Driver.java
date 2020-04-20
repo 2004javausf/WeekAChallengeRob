@@ -13,6 +13,7 @@ public class Driver {
 	public static void main(String[] args) {
 		
 		String answer;
+		String answerToLower;
 		System.out.println("Beast or Humanoid?");
 		answer = sc.nextLine();
 		
